@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493348170270",
+    "project_id": "apagar3",
+    "storage_bucket": "apagar3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493348170270:android:cae5200e302e658da3dc0f",
+        "android_client_info": {
+          "package_name": "com.example.apagar3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-3BHYxWHzR0YWIWLRgpwt5wXpOagTvF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
